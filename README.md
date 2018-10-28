@@ -1,9 +1,7 @@
 # Louk Grammar
 Syntax highlighting for [Louk](https://www.louk-lang.org)
 
-<div style="width:400px;">
 ![Syntax highlighting example](assets/preview.png)
-</div>
 
 ## Installation
 Install from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=louk-lang.louk), or search for `louk` in the VS Code extensions manager (`⌘+shift+x` on Mac, `ctrl+shift+x` on Windows).
