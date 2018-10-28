@@ -8,6 +8,10 @@
   "author": "Alex Gorischek",
   "homepage": "https://louk-lang.org",
   "name": "louk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/louk-lang/louk-editor-vscode"
+  },
   "displayName": "Louk",
   "icon": "assets/logo.png",
   "publisher": "louk-lang",
